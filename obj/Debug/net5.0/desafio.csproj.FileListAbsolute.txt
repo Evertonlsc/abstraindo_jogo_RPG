@@ -1,0 +1,16 @@
+D:\Users\User\Documents\desafio\bin\Debug\net5.0\desafio.exe
+D:\Users\User\Documents\desafio\bin\Debug\net5.0\desafio.deps.json
+D:\Users\User\Documents\desafio\bin\Debug\net5.0\desafio.runtimeconfig.json
+D:\Users\User\Documents\desafio\bin\Debug\net5.0\desafio.runtimeconfig.dev.json
+D:\Users\User\Documents\desafio\bin\Debug\net5.0\desafio.dll
+D:\Users\User\Documents\desafio\bin\Debug\net5.0\ref\desafio.dll
+D:\Users\User\Documents\desafio\bin\Debug\net5.0\desafio.pdb
+D:\Users\User\Documents\desafio\obj\Debug\net5.0\desafio.csproj.AssemblyReference.cache
+D:\Users\User\Documents\desafio\obj\Debug\net5.0\desafio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Documents\desafio\obj\Debug\net5.0\desafio.AssemblyInfoInputs.cache
+D:\Users\User\Documents\desafio\obj\Debug\net5.0\desafio.AssemblyInfo.cs
+D:\Users\User\Documents\desafio\obj\Debug\net5.0\desafio.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\desafio\obj\Debug\net5.0\desafio.dll
+D:\Users\User\Documents\desafio\obj\Debug\net5.0\ref\desafio.dll
+D:\Users\User\Documents\desafio\obj\Debug\net5.0\desafio.pdb
+D:\Users\User\Documents\desafio\obj\Debug\net5.0\desafio.genruntimeconfig.cache
